@@ -1,0 +1,27 @@
+.notFound {
+    text-align: center;
+    padding: 50px;
+    font-family: Arial, sans-serif;
+    background-color: var(--bg-secondary);
+  }
+  
+.notFound h1 {
+    font-size: 48px;
+    color: var(--font-quaternary); 
+}
+  
+.notFound p {
+    font-size: 20px;
+    color: var(--font-secondary); 
+    margin-bottom: 20px;
+}
+
+.back {
+    color: var(--font-secondary);
+    font-weight: 700;
+}
+
+.back:hover {
+    color: var(--font-tertiary);
+}
+  

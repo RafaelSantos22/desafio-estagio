@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Rafael",
+    "age": 25,
+    "email": "rafa@teste.com",
+    "abilities": ["NodeJs", "HTML5", "CSS3", "Javascript", "Typescript", "ReactJs"],
+    "password": "12345"
+  },
+  {
+    "id": 2,
+    "name": "Luana",
+    "age": 18,
+    "email": "luana@teste.com",
+    "abilities": ["NodeJs", "Javascript", "Typescript"],
+    "password": "123"
+  }
+]

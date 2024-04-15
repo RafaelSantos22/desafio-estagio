@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 0 10px;
+}
+
+.title,
+.description {
+    color: var(--font-secondary);
+}
+
+.title {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.description {
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 30px;
+}
+
+.register {
+    color: var(--font-tertiary);
+    font-size: 18px;
+    font-weight: 600;
+}
